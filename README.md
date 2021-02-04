@@ -1,4 +1,5 @@
-### Hi there 👋
+### Greetings Stranger 
+You have found my work profile theres probably not gonna be much to see here as most of it will probably be in private repos, however if you would like to go to my personal profile that has my open source work in it that username is DragonCrafted87
 
 <!--
 **sgudeman-belcan/sgudeman-belcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
